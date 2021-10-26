@@ -1,7 +1,7 @@
 # Etch-A-Sketch
 
-JS based etch a sketch game, practicing manipulating the DOM
-
+JS based etch a sketch game, made to practice manipulating the DOM
+Live Demo here: https://ryanjmanchester.github.io/Etch-A-Sketch/
 The Aim of this project:
 
 # Practice manipulating the DOM
