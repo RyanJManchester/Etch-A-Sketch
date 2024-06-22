@@ -1,7 +1,7 @@
 ## Etch-A-Sketch
 
 # From The Odin Project, A nice display project
-
+<img src ="https://github.com/RyanJManchester/Etch-A-Sketch/blob/main/Demo_Screenshot%20(2).png" width=400px />
 JS based etch a sketch game, made to practice manipulating the DOM
 ## [Live Demo here](https://ryanjmanchester.github.io/Etch-A-Sketch/)
 
